@@ -2,3 +2,10 @@ VGG
 VGG19
 RESNET
 EFFICIENTNET
+
+https://drive.google.com/drive/folders/1aHvqbO90tcNV-gu9MD1vHk7h9KKGjwk3?usp=drive_link -> all trained models
+
+how to use ? 
+new_model = tf.keras.models.load_model('model_name.h5')
+new_model.summary()
+new_model.predict(...)
