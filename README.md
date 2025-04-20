@@ -17,12 +17,12 @@ To build an accurate and efficient model that can detect seizures from EEG signa
 
 ## 🧪 Models Tested
 
-| Model                          | Architecture Preview | Accuracy | Precision | Recall | F1-Score |
+| Model                         | Accuracy | Precision | Recall | F1-Score |
 |-------------------------------|----------------------|----------|-----------|--------|----------|
-| **VGG16**                     | ![VGG16]([https://raw.githubusercontent.com/rajpurkar/deepslate/main/media/vgg16.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ6HSsMC0rcp-kxUYbeQDY3AbIuuGA6KdQ3A&s)) |          |           |        |          |
-| **EfficientNet (ImageNet)**   | ![EfficientNet]([https://raw.githubusercontent.com/qubvel/efficientnet/master/images/efficientnet.png](https://www.researchgate.net/publication/352264830/figure/fig2/AS:1032964959895552@1623289446888/Basic-block-diagram-of-EfficientNet-model.png)) |          |           |        |          |
-| **VGG19 (ImageNet)**          | ![VGG19]([https://miro.medium.com/v2/resize:fit:1400/1*VUe0bKnzJ3AGni3x5K3aYA.png](https://www.researchgate.net/publication/359771670/figure/fig5/AS:11431281079634597@1660789329088/VGG-19-Architecture-39-VGG-19-has-16-convolution-layers-grouped-into-5-blocks-After.png)) |          |           |        |          |
-| **ResNet (ImageNet)**         | ![ResNet]([https://neurohive.io/wp-content/uploads/2018/11/resnet-architecture.png](https://miro.medium.com/v2/resize:fit:1400/1*tFlMRm_wjBDrgOQMhEM0cQ.png)) |          |           |        |          |
+| **VGG16**                     |          |           |        |          |
+| **EfficientNet (ImageNet)**   |          |           |        |          |
+| **VGG19 (ImageNet)**          |          |           |        |          |
+| **ResNet (ImageNet)**         |          |           |        |          |
 
 > ⚠️ Replace the metrics above after training and evaluation.
 
