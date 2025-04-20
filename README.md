@@ -17,14 +17,14 @@ To build an accurate and efficient model that can detect seizures from EEG signa
 
 ## 🧪 Models Tested
 
-| Model                         | Accuracy | Precision | Recall | F1-Score |
-|-------------------------------|----------------------|----------|-----------|--------|----------|
-| **VGG16**                     |          |           |        |          |
-| **EfficientNet (ImageNet)**   |          |           |        |          |
-| **VGG19 (ImageNet)**          |          |           |        |          |
-| **ResNet (ImageNet)**         |          |           |        |          |
+| Model                        | Accuracy | Precision | Recall | F1-Score |
+|-----------------------------|----------|-----------|--------|----------|
+| **VGG16**                   |          |           |        |          |
+| **EfficientNet (ImageNet)** |          |           |        |          |
+| **VGG19 (ImageNet)**        |          |           |        |          |
+| **ResNet (ImageNet)**       |          |           |        |          |
 
-> ⚠️ Replace the metrics above after training and evaluation.
+> ⚠️ Fill in the metrics after model evaluation.
 
 ## 📊 Evaluation Metrics
 
@@ -45,4 +45,5 @@ To build an accurate and efficient model that can detect seizures from EEG signa
 - Python
 - TensorFlow / Keras
 - NumPy & Pandas
+- OpenCV / Librosa (for image or audio preprocessing)
 - Matplotlib & Seaborn (for visualizations)
