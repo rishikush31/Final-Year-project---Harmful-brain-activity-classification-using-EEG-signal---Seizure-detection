@@ -17,12 +17,12 @@ To build an accurate and efficient model that can detect seizures from EEG signa
 
 ## 🧪 Models Tested
 
-| Model                        | Accuracy | Precision | Recall | F1-Score |
-|-----------------------------|----------|-----------|--------|----------|
-| **VGG16**                   |          |           |        |          |
-| **EfficientNet (ImageNet)** |          |           |        |          |
-| **VGG19 (ImageNet)**        |          |           |        |          |
-| **ResNet (ImageNet)**       |          |           |        |          |
+| Model              | Loss   | Accuracy | Precision | Recall | F1-Score |
+|-------------------|--------|----------|-----------|--------|----------|
+| **VGG16**         | 0.471  | 0.822    | 0.676     | 0.822  | 0.742    |
+| **EfficientNetV2**| 1.825  | 0.704    | 0.710     | 0.704  | 0.707    |
+| **ResNet152V2**   | 0.468  | 0.822    | 0.676     | 0.822  | 0.742    |
+| **VGG19**         | 1.084  | 0.822    | 0.676     | 0.822  | 0.742    |
 
 > ⚠️ Fill in the metrics after model evaluation.
 
